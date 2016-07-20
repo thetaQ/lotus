@@ -1,0 +1,4 @@
+*.[oa]
+*.out
+.DS_Store
+/.vscode

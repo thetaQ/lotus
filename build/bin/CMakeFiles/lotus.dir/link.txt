@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/lotus.dir/lotus.c.o CMakeFiles/lotus.dir/l_socket.c.o CMakeFiles/lotus.dir/SAK_threadpool.c.o CMakeFiles/lotus.dir/l_http.c.o  -o lotus -rdynamic -lpthread 
